@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "你好",
+    "input": "",
+    "output": "你好，我是AI助手。"
+  },
+  {
+    "instruction": "1+1等于几",
+    "input": "",
+    "output": "1+1等于2。"
+  },
+  {
+    "instruction": "中国首都是哪里",
+    "input": "",
+    "output": "中国首都是北京。"
+  }
+]
